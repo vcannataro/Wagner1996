@@ -1,3 +1,5 @@
+###this is the same as wagner1996.R, but without comments, and with a loop that will run the simulation until you hit an equilibrium state. 
+
 
 N <- 10
 p <- 0.5 #0.1-0.9
